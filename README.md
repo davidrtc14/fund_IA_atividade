@@ -93,7 +93,7 @@ A diferença positiva consistente em todas as métricas indica **sinais de overf
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/davidrtc14/fund_IA_atividade.git
-cd seu-repositorio
+cd fund_IA_atividade
 ```
 
 ### 2. Instale as dependências
