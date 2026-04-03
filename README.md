@@ -102,7 +102,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ### 3. Baixe o dataset
-Acesse [este link](https://www.kaggle.com/datasets/rajyellow46/wine-quality), baixe o arquivo `winequalityN.csv` e coloque na pasta do projeto.
+Caso não esteja na raiz do projeto, ou por algum outro motivo que resulte em erros, acesse [este link](https://www.kaggle.com/datasets/rajyellow46/wine-quality), e baixe o arquivo `winequalityN.csv`, colocando na pasta raiz do projeto.
 
 ### 4. Execute o script
 ```bash
